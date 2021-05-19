@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This repo is no longer in use, not supported, and should not be used. It is kept for historical/archival purposes
+
 # Analytics
 [![Circle CI](https://circleci.com/gh/segmentio/analytics-ios.svg?style=shield&circle-token=31c5b3e5edeb404b30141ead9dcef3eb37d16d4d)](https://circleci.com/gh/segmentio/analytics-ios)
 [![Version](https://img.shields.io/cocoapods/v/Analytics.svg?style=flat)](https://cocoapods.org//pods/Analytics)
